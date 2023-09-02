@@ -10,3 +10,4 @@ Create a simple resource type of "local_file" with arbitrary content and deploy 
 * production
 
 * quest 1: Define if state file's content is staging or production.
+* quest 2: Change the backend to S3 and repeat the steps to create two workspaces.
